@@ -1,6 +1,5 @@
 {
-  "homepage": "http://Pazmoore.github.io/react.js",
-  "name": "news-magasine",
+ "name": "news-magasine",
   "private": true,
   "version": "0.0.0",
   "type": "module",
